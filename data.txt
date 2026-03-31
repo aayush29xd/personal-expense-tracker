@@ -1,0 +1,5 @@
+1000.0,Education,2026-1-30,College fees monthly
+1000.0,Rent,2026-3-31,Flat Rent for March
+200.0,Food,2026-1-29,Birthday Party 
+75.0,Shopping,2026-02-14,Daily Essentials & Clothing
+85.0,Travel,2026-02-28,Monthly travel cost between Home & College
