@@ -42,10 +42,10 @@ ExpenseTracker/
 │   ├── Main.java
 │   ├── Expense.java
 │   ├── ExpenseManager.java
-│── data.txt
-│── README.md
 │── .gitignore
 │── LICENSE
+│── data.txt
+│── README.md
 ```
 
 ---
