@@ -38,6 +38,7 @@ Many individuals struggle to keep track of their daily expenses, leading to poor
 
 ```
 ExpenseTracker/
+│── screenshots
 │── src/
 │   ├── Main.java
 │   ├── Expense.java
