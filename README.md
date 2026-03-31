@@ -76,10 +76,9 @@ ExpenseTracker/
 5. 🚪 Exit
 
 ---
-
+Example:
 ## No  | Amount     | Category   | Date         | Description
 
-Example:
 ## 1   | $99.99    | Food       | 2026-01-29   | Birthday Party
 
 💰 Total Expense: $99.99
